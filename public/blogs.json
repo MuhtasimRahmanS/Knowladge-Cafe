@@ -4,6 +4,7 @@
       "cover": "https://i.ibb.co/wRbjJLp/toy-bricks-table.jpg",
       "title": "The Secret Garden",
       "author_img": "https://i.ibb.co/WB3LF46/99df05b4-d55b-4277-9c89-9da815ff34ca.jpg",
+      "author_name": "Jane Doe",
       "posted_date": "2024-03-14",
       "reading_time": 12,
       "hashtags": ["#classics", "#gardening", "#novels"]
@@ -13,6 +14,7 @@
       "cover": "https://i.ibb.co/dsZFSz3/toy-bricks-table-with-word-my-blog.jpg",
       "title": "Beyond the Stars",
       "author_img": "https://i.ibb.co/WB3LF46/99df05b4-d55b-4277-9c89-9da815ff34ca.jpg",
+      "author_name": "Jane Doe",
       "posted_date": "2024-03-13",
       "reading_time": 8,
       "hashtags": ["#scifi", "#adventure", "#space"]
@@ -22,6 +24,7 @@
       "cover": "https://i.ibb.co/wRbjJLp/toy-bricks-table.jpg",
       "title": "Mystery at Midnight Manor",
       "author_img": "https://i.ibb.co/WB3LF46/99df05b4-d55b-4277-9c89-9da815ff34ca.jpg",
+      "author_name": "Jane Doe",
       "posted_date": "2024-03-12",
       "reading_time": 15,
       "hashtags": ["#mystery", "#detective", "#thriller"]
@@ -31,6 +34,7 @@
       "cover": "https://i.ibb.co/dsZFSz3/toy-bricks-table-with-word-my-blog.jpg",
       "title": "The Enchanted Forest",
       "author_img": "https://i.ibb.co/WB3LF46/99df05b4-d55b-4277-9c89-9da815ff34ca.jpg",
+      "author_name": "Jane Doe",
       "posted_date": "2024-03-11",
       "reading_time": 10,
       "hashtags": ["#fantasy", "#magic", "#adventure"]
@@ -40,6 +44,7 @@
       "cover": "https://i.ibb.co/wRbjJLp/toy-bricks-table.jpg",
       "title": "Recipes from Around the World",
       "author_img": "https://i.ibb.co/WB3LF46/99df05b4-d55b-4277-9c89-9da815ff34ca.jpg",
+      "author_name": "Jane Doe",
       "posted_date": "2024-03-10",
       "reading_time": 20,
       "hashtags": ["#cooking", "#recipes", "#worldcuisine"]
